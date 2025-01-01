@@ -13,5 +13,5 @@ For More Info: https://medium.com/@ayseceydaolmez/ke%C5%9Fifsel-veri-analizi-k%C
 ![sütun1](https://github.com/user-attachments/assets/d5dc5ea2-d75b-4f5d-aa5b-ebecf476b669)
 ![sütun2](https://github.com/user-attachments/assets/2513e64c-1f27-469a-8ac4-f7924fba0005)
 
-## Grouped Bar Chart
+## Grouped Bar Charts
 ![sütun3](https://github.com/user-attachments/assets/3699fd5a-7903-4d37-97f5-198dad311204)
